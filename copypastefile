@@ -1,0 +1,43 @@
+Standing:
+Accelerometer
+---------------------
+Acceleration_Xout:     356  Scaled:  0.021728515625
+Acceleration_Yout:    1580  Scaled:  0.096435546875
+Acceleration_Zout:   14776  Scaled:  0.90185546875
+Acceleration:  0.9072569810184039
+X Rotation:  6.101697454781942
+Y Rotation:  1.372346878516245
+
+Acceleration:
+Accelerometer
+---------------------
+Acceleration_Xout:   32768  Scaled:  2.0
+Acceleration_Yout:   21924  Scaled:  1.338134765625
+Acceleration_Zout:   32768  Scaled:  2.0
+Acceleration:  3.1289941915852566
+X Rotation:  25.318928662491263
+Y Rotation:  39.730927326768885
+
+
+For 4g sensitivity
+Flat:
+Accelerometer
+---------------------
+Acceleration_Xout:      56  Scaled:  0.0068359375
+Acceleration_Yout:    1348  Scaled:  0.16455078125
+Acceleration_Zout:   14888  Scaled:  1.8173828125
+Acceleration:  1.8248298487316288
+X Rotation:  5.1735723171548935
+Y Rotation:  0.21463441322861956
+
+Standing:
+Accelerometer
+---------------------
+Acceleration_Xout:     892  Scaled:  0.10888671875
+Acceleration_Yout:   16140  Scaled:  1.97021484375
+Acceleration_Zout:   -3428  Scaled:  -0.41845703125
+Acceleration:  2.017104145812888
+X Rotation:  77.62186379077093
+Y Rotation:  3.0944279205781133
+
+Acceleration:
